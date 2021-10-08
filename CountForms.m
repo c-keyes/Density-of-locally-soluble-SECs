@@ -2,7 +2,7 @@
 CountSexticsEff.m
 
 Christopher Keyes
-Updated September 14, 2021
+Updated October 8, 2021
 
 Magma routines for enumerating binary forms f(x,z) over Fp taking a value liftable
 by Hensel's lemma to a Qp-point of y^3 = f(x,z).
